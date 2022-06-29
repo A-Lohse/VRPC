@@ -90,7 +90,7 @@ def event_plot(model,xlim1 = -20.5,xlim2= 20.5,ylim1 = -0.2, ylim2 = 0.2, unit =
 
 
     #plt.scatter(-1, 0, color =  "black", s = 620,alpha = 1)
-    plt.scatter(-0.75, 0, color =  "black", s = 620,alpha = 1, marker = 'X')
+    plt.scatter(-1, 0, color =  "black", s = 620,alpha = 1, marker = 'X')
 
     
 
