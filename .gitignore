@@ -1,0 +1,20 @@
+#ignore the raw data but keep with out the images 
+/posts
+
+#ignore the OLD folder
+/OLD
+
+#ignore the .ipynb_checkpoints  
+/.ipynb_checkpoints
+
+#ignore the __pycache__
+/__pycache__
+
+#ignore things for submission
+/submitting
+
+#ignore images in handcode folder
+/handcode/all_people
+
+#ignore images in handcode folder
+/handcode/random_face
