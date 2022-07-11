@@ -18,3 +18,16 @@
 
 #ignore images in handcode folder
 /handcode/random_face
+
+#plots not to be included
+
+/plots/CNN_108.jpeg
+/plots/CNN_308.jpeg
+/plots/people_in_posts.png
+/plots/women_in_posts.png
+/plots/std_women_3.png
+/plots/std_women_7.png
+/plots/std_women_14.png
+/plots/std_women_30.png
+/plots/12_weeks_event_all.png
+
